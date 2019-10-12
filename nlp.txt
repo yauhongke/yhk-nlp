@@ -1,2 +1,3 @@
 nlp 自然语言处理
 常用工具：spacy,NLTK,tensorflow,LSTM.
+注意版本问题。
